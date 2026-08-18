@@ -88,6 +88,38 @@ Wireshark provided packet-level visibility into normal and malicious traffic, wh
 
 The integration of Suricata, Fail2ban, and iptables demonstrated how network monitoring can be combined with automated response mechanisms to improve the defensive capabilities of IoT surveillance environments.
 
+## Project Demonstrations
+
+The following demonstrations document the practical implementation and experimental activities conducted during the project.
+
+### 1. RTSP Traffic Analysis and Stream Observation
+
+[Watch Demonstration](https://drive.google.com/file/d/1P6MIhOiucNFjbXbCQL4sluD9Cy1hiLTr/view?usp=drive_link)
+
+### 2. ARP Spoofing Attack Detection in an IP Camera Environment
+
+[Watch Demonstration](https://drive.google.com/file/d/1hv3LlLwaMVHebYV1d-jYnEOdsplfymVO/view?usp=drive_link)
+
+### 3. Suricata-Based Intrusion Detection and Real-Time Monitoring
+
+[Watch Demonstration](https://drive.google.com/file/d/1lqXK9dhjzp6GRb3jWP6B4Ubq-vpkaqd4/view?usp=drive_link)
+
+### 4. Fail2ban-Based Intrusion Prevention and Automated Blocking
+
+[Watch Demonstration](https://drive.google.com/file/d/1OT2GqfmocMb2-q_YECGakaTMRWhIK8cU/view?usp=drive_link)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Methodology
 
 The project followed the IMGSIE research methodology:
